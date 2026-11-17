@@ -3,9 +3,26 @@
 Precision traditional: 7/12 (58.3%)
 
 --- Ejecutando pruebas para modo: GENERATIVE ---
-Error en caso 1: {"detail":"Error al procesar con el motor generativo: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).', 'status': 'NOT_FOUND'}}"}
+Precision generative: 12/12 (100.0%)
+
+### Tabla Comparativa de Resultados
+
+| ID | Tipo | Esperado | Tradicional (Cat/Prio) | Acierto Trad. | Generativo (Cat/Prio) | Acierto Gen. | Formato OK |
+|:---:|:---|:---|:---|:---:|:---|:---:|:---:|
+| 1 | Normal | ACCESS (MEDIUM) | ACCESS (MEDIUM) | Si | ACCESS (MEDIUM) | Si | Si |
+| 2 | Normal | BUG (HIGH) | BUG (HIGH) | Si | BUG (HIGH) | Si | Si |
+| 3 | Normal | FEATURE (LOW) | BUG (HIGH) | No | FEATURE (LOW) | Si | Si |
+| 4 | Normal | SECURITY (CRITICAL) | BUG (HIGH) | No | SECURITY (CRITICAL) | Si | Si |
+| 5 | Normal | ACCESS (MEDIUM) | ACCESS (MEDIUM) | Si | ACCESS (MEDIUM) | Si | Si |
+| 6 | Ambiguo | SECURITY (CRITICAL) | BUG (HIGH) | No | SECURITY (CRITICAL) | Si | Si |
+| 7 | Ambiguo | BUG (HIGH) | BUG (HIGH) | Si | BUG (MEDIUM) | Si | Si |
+| 8 | Ambiguo | FEATURE (LOW) | ACCESS (MEDIUM) | No | FEATURE (LOW) | Si | Si |
+| 9 | Adversarial | SECURITY (CRITICAL) | SECURITY (CRITICAL) | Si | SECURITY (CRITICAL) | Si | Si |
+| 10 | Adversarial | SECURITY (CRITICAL) | FEATURE (LOW) | No | SECURITY (CRITICAL) | Si | Si |
+| 11 | Normal | BUG (HIGH) | BUG (HIGH) | Si | BUG (MEDIUM) | Si | Si |
+| 12 | Normal | FEATURE (LOW) | FEATURE (LOW) | Si | FEATURE (LOW) | Si | Si |
 
 --- EVIDENCIA ENDPOINT TRADITIONAL ---
 {"category":"ACCESS","priority":"MEDIUM","response":"Lamentamos el inconveniente de acceso. Por favor, verifique sus credenciales e intente restablecer su contrasena desde el enlace de recuperacion.","requiresHumanReview":false,"mode":"traditional"}
 --- EVIDENCIA ENDPOINT GENERATIVE (SEGURIDAD) ---
-{"detail":"Error al procesar con el motor generativo: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).', 'status': 'NOT_FOUND'}}"}
+{"category":"SECURITY","priority":"CRITICAL","response":"Hemos registrado un incidente de seguridad crítico relacionado con una posible vulnerabilidad de inyección SQL en el sistema de inicio de sesión. Nuestro equipo de seguridad ha sido alertado y está tomando medidas inmediatas para mitigar el riesgo y proteger la plataforma. Agradecemos su reporte.","requiresHumanReview":true,"mode":"generative"}
