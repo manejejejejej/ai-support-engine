@@ -1,4 +1,6 @@
 # AI Support Engine
+**Autora:** Manelic Alitzel Reyes Torres
+
 Motor hibrido de clasificacion y respuesta automatica de solicitudes de soporte tecnico mediante IA Simbolica (Reglas) e IA Generativa (Gemini API).
 
 ## Instrucciones de Ejecucion
