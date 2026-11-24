@@ -1,0 +1,201 @@
+message,category
+"Sería útil tener un historial de cambios por usuario (caso #27)",FEATURE
+"Recibimos un correo de phishing suplantando el dominio de la empresa (caso #33)",SECURITY
+"Hubo una exfiltración masiva de datos de clientes esta madrugada (caso #39)",SECURITY
+"La aplicación me devuelve a la pantalla de inicio de sesión (caso #40)",ACCESS
+"No puedo iniciar sesión desde esta mañana",ACCESS
+"Encontramos una falla XSS en el formulario de comentarios (caso #37)",SECURITY
+"Cómo puedo exportar mis datos en formato Excel (caso #31)",FEATURE
+"Existe alguna forma de programar reportes automáticos (caso #43)",FEATURE
+"La pantalla se queda completamente en blanco al cargar (caso #43)",BUG
+"Se detectó actividad de malware en uno de los servidores de archivos (caso #15)",SECURITY
+"Posible filtración de credenciales de usuarios en un foro público (caso #42)",SECURITY
+"El enlace para restablecer mi contraseña expiró",ACCESS
+"Alguien modificó los permisos de administrador sin autorización (caso #26)",SECURITY
+"Hubo una exfiltración masiva de datos de clientes esta madrugada (caso #29)",SECURITY
+"Sospechamos de un ataque de ransomware cifrando carpetas compartidas (caso #18)",SECURITY
+"El botón de exportar reporte no hace nada al darle clic (caso #14)",BUG
+"La gráfica del panel principal muestra datos en cero (caso #46)",BUG
+"El enlace para restablecer mi contraseña expiró (caso #15)",ACCESS
+"El sistema se congela al filtrar por fechas (caso #47)",BUG
+"Recibimos un correo de phishing suplantando el dominio de la empresa (caso #23)",SECURITY
+"Olvidé mi contraseña y no recibo el correo de recuperación (caso #42)",ACCESS
+"Quisiera saber si tienen API disponible para desarrolladores (caso #39)",FEATURE
+"Se pueden crear plantillas personalizadas para los tickets (caso #50)",FEATURE
+"La aplicación se cierra sola cada vez que subo un archivo (caso #41)",BUG
+"Quisiera saber si tienen API disponible para desarrolladores (caso #29)",FEATURE
+"Existe alguna forma de programar reportes automáticos (caso #33)",FEATURE
+"La aplicación se cierra sola cada vez que subo un archivo (caso #31)",BUG
+"Tienen integración directa con Slack o Microsoft Teams (caso #45)",FEATURE
+"Se detectó actividad de malware en uno de los servidores de archivos (caso #25)",SECURITY
+"El escáner reportó una vulnerabilidad de inyección SQL en el buscador",SECURITY
+"El inicio de sesión con SSO falla para mi usuario (caso #17)",ACCESS
+"La autenticación de dos factores no acepta mi código (caso #24)",ACCESS
+"Las llaves de API quedaron expuestas en un repositorio público",SECURITY
+"No cargan las imágenes de perfil de los usuarios (caso #18)",BUG
+"Cómo puedo exportar mis datos en formato Excel (caso #21)",FEATURE
+"Olvidé mi contraseña y no recibo el correo de recuperación (caso #32)",ACCESS
+"Hubo una exfiltración masiva de datos de clientes esta madrugada (caso #19)",SECURITY
+"Necesito agregar más miembros a mi espacio de trabajo (caso #44)",FEATURE
+"El inicio de sesión con SSO falla para mi usuario",ACCESS
+"Las notificaciones llegan con varias horas de retraso (caso #35)",BUG
+"Tienen integración directa con Slack o Microsoft Teams (caso #25)",FEATURE
+"Recibimos un correo de phishing suplantando el dominio de la empresa (caso #43)",SECURITY
+"Quisiera saber si tienen API disponible para desarrolladores (caso #19)",FEATURE
+"Cómo puedo exportar mis datos en formato Excel",FEATURE
+"Alguien modificó los permisos de administrador sin autorización (caso #36)",SECURITY
+"Cómo puedo personalizar los permisos de cada rol (caso #48)",FEATURE
+"Posible filtración de credenciales de usuarios en un foro público",SECURITY
+"Cómo puedo exportar mis datos en formato Excel (caso #11)",FEATURE
+"La versión móvil se ve desacomodada en pantallas pequeñas (caso #20)",BUG
+"Olvidé mi contraseña y no recibo el correo de recuperación",ACCESS
+"Existe alguna forma de programar reportes automáticos",FEATURE
+"Olvidé mi contraseña y no recibo el correo de recuperación (caso #22)",ACCESS
+"No tengo permiso para abrir el módulo de administración",ACCESS
+"El botón de exportar reporte no hace nada al darle clic (caso #24)",BUG
+"Existe alguna forma de programar reportes automáticos (caso #13)",FEATURE
+"No puedo iniciar sesión desde esta mañana (caso #21)",ACCESS
+"La autenticación de dos factores no acepta mi código (caso #44)",ACCESS
+"La pantalla se queda completamente en blanco al cargar (caso #33)",BUG
+"El botón de exportar reporte no hace nada al darle clic (caso #34)",BUG
+"No puedo iniciar sesión desde esta mañana (caso #41)",ACCESS
+"Sospechamos de un ataque de ransomware cifrando carpetas compartidas (caso #38)",SECURITY
+"La pantalla se queda completamente en blanco al cargar",BUG
+"Mi cuenta quedó bloqueada tras varios intentos fallidos",ACCESS
+"Se pueden crear plantillas personalizadas para los tickets (caso #20)",FEATURE
+"Encontramos una falla XSS en el formulario de comentarios",SECURITY
+"Mi usuario aparece como inexistente en el directorio (caso #48)",ACCESS
+"No puedo acceder con la contraseña temporal (caso #19)",ACCESS
+"La gráfica del panel principal muestra datos en cero (caso #36)",BUG
+"Encontramos una falla XSS en el formulario de comentarios (caso #17)",SECURITY
+"Me aparece error 500 al intentar guardar los cambios (caso #42)",BUG
+"El escáner reportó una vulnerabilidad de inyección SQL en el buscador (caso #24)",SECURITY
+"Sería útil tener un historial de cambios por usuario (caso #47)",FEATURE
+"Hubo una exfiltración masiva de datos de clientes esta madrugada",SECURITY
+"Mi usuario aparece como inexistente en el directorio (caso #28)",ACCESS
+"El inicio de sesión con SSO falla para mi usuario (caso #47)",ACCESS
+"Alguien modificó los permisos de administrador sin autorización (caso #46)",SECURITY
+"Me gustaría poder activar el modo oscuro en la plataforma (caso #32)",FEATURE
+"Necesito agregar más miembros a mi espacio de trabajo",FEATURE
+"Al actualizar la página se pierden los datos capturados (caso #19)",BUG
+"Me gustaría poder activar el modo oscuro en la plataforma (caso #42)",FEATURE
+"No cargan las imágenes de perfil de los usuarios (caso #28)",BUG
+"No puedo iniciar sesión desde esta mañana (caso #11)",ACCESS
+"La aplicación me devuelve a la pantalla de inicio de sesión (caso #50)",ACCESS
+"Cómo puedo personalizar los permisos de cada rol (caso #18)",FEATURE
+"Cómo puedo personalizar los permisos de cada rol (caso #38)",FEATURE
+"No puedo iniciar sesión desde esta mañana (caso #31)",ACCESS
+"Hubo una exfiltración masiva de datos de clientes esta madrugada (caso #49)",SECURITY
+"No tengo permiso para abrir el módulo de administración (caso #36)",ACCESS
+"Me aparece error 500 al intentar guardar los cambios",BUG
+"Necesito agregar más miembros a mi espacio de trabajo (caso #14)",FEATURE
+"Detectamos un intento de acceso no autorizado desde una IP extranjera",SECURITY
+"Tienen integración directa con Slack o Microsoft Teams (caso #15)",FEATURE
+"Necesito agregar más miembros a mi espacio de trabajo (caso #24)",FEATURE
+"La versión móvil se ve desacomodada en pantallas pequeñas (caso #50)",BUG
+"Olvidé mi contraseña y no recibo el correo de recuperación (caso #12)",ACCESS
+"La aplicación me devuelve a la pantalla de inicio de sesión (caso #30)",ACCESS
+"La autenticación de dos factores no acepta mi código",ACCESS
+"Se pueden crear plantillas personalizadas para los tickets",FEATURE
+"La aplicación se cierra sola cada vez que subo un archivo (caso #21)",BUG
+"La versión móvil se ve desacomodada en pantallas pequeñas (caso #40)",BUG
+"El escáner reportó una vulnerabilidad de inyección SQL en el buscador (caso #34)",SECURITY
+"Detectamos un intento de acceso no autorizado desde una IP extranjera (caso #31)",SECURITY
+"Mi usuario aparece como inexistente en el directorio (caso #38)",ACCESS
+"La aplicación me devuelve a la pantalla de inicio de sesión",ACCESS
+"Las llaves de API quedaron expuestas en un repositorio público (caso #30)",SECURITY
+"Posible filtración de credenciales de usuarios en un foro público (caso #12)",SECURITY
+"Mi usuario aparece como inexistente en el directorio (caso #18)",ACCESS
+"Se detectó actividad de malware en uno de los servidores de archivos (caso #45)",SECURITY
+"Al actualizar la página se pierden los datos capturados (caso #39)",BUG
+"No cargan las imágenes de perfil de los usuarios (caso #38)",BUG
+"El escáner reportó una vulnerabilidad de inyección SQL en el buscador (caso #14)",SECURITY
+"Al actualizar la página se pierden los datos capturados (caso #49)",BUG
+"Existe alguna forma de programar reportes automáticos (caso #23)",FEATURE
+"No tengo permiso para abrir el módulo de administración (caso #46)",ACCESS
+"Sería útil tener un historial de cambios por usuario (caso #37)",FEATURE
+"La gráfica del panel principal muestra datos en cero",BUG
+"El enlace para restablecer mi contraseña expiró (caso #25)",ACCESS
+"Las notificaciones llegan con varias horas de retraso (caso #25)",BUG
+"El sistema se congela al filtrar por fechas (caso #27)",BUG
+"Sería útil tener un historial de cambios por usuario",FEATURE
+"La autenticación de dos factores no acepta mi código (caso #14)",ACCESS
+"Me aparece error 500 al intentar guardar los cambios (caso #12)",BUG
+"No tengo permiso para abrir el módulo de administración (caso #16)",ACCESS
+"El botón de exportar reporte no hace nada al darle clic (caso #44)",BUG
+"No cargan las imágenes de perfil de los usuarios (caso #48)",BUG
+"Mi cuenta quedó bloqueada tras varios intentos fallidos (caso #23)",ACCESS
+"No puedo acceder con la contraseña temporal (caso #29)",ACCESS
+"No tengo permiso para abrir el módulo de administración (caso #26)",ACCESS
+"Alguien modificó los permisos de administrador sin autorización",SECURITY
+"Sospechamos de un ataque de ransomware cifrando carpetas compartidas (caso #48)",SECURITY
+"Mi cuenta quedó bloqueada tras varios intentos fallidos (caso #43)",ACCESS
+"Las llaves de API quedaron expuestas en un repositorio público (caso #40)",SECURITY
+"Tienen integración directa con Slack o Microsoft Teams (caso #35)",FEATURE
+"El sistema se congela al filtrar por fechas (caso #17)",BUG
+"No puedo acceder con la contraseña temporal (caso #39)",ACCESS
+"Alguien modificó los permisos de administrador sin autorización (caso #16)",SECURITY
+"Sospechamos de un ataque de ransomware cifrando carpetas compartidas (caso #28)",SECURITY
+"Posible filtración de credenciales de usuarios en un foro público (caso #32)",SECURITY
+"El sistema se congela al filtrar por fechas",BUG
+"No puedo acceder con la contraseña temporal",ACCESS
+"Al actualizar la página se pierden los datos capturados (caso #29)",BUG
+"La aplicación se cierra sola cada vez que subo un archivo (caso #11)",BUG
+"Al actualizar la página se pierden los datos capturados",BUG
+"La versión móvil se ve desacomodada en pantallas pequeñas",BUG
+"El enlace para restablecer mi contraseña expiró (caso #35)",ACCESS
+"El inicio de sesión con SSO falla para mi usuario (caso #37)",ACCESS
+"Me gustaría poder activar el modo oscuro en la plataforma (caso #12)",FEATURE
+"Dónde configuro el idioma de la interfaz a español (caso #36)",FEATURE
+"El inicio de sesión con SSO falla para mi usuario (caso #27)",ACCESS
+"Recibimos un correo de phishing suplantando el dominio de la empresa",SECURITY
+"Mi usuario aparece como inexistente en el directorio",ACCESS
+"Se pueden crear plantillas personalizadas para los tickets (caso #40)",FEATURE
+"Las notificaciones llegan con varias horas de retraso",BUG
+"Cómo puedo personalizar los permisos de cada rol",FEATURE
+"Quisiera saber si tienen API disponible para desarrolladores (caso #49)",FEATURE
+"La autenticación de dos factores no acepta mi código (caso #34)",ACCESS
+"Necesito agregar más miembros a mi espacio de trabajo (caso #34)",FEATURE
+"Me gustaría poder activar el modo oscuro en la plataforma",FEATURE
+"Posible filtración de credenciales de usuarios en un foro público (caso #22)",SECURITY
+"La pantalla se queda completamente en blanco al cargar (caso #23)",BUG
+"Encontramos una falla XSS en el formulario de comentarios (caso #47)",SECURITY
+"Recibimos un correo de phishing suplantando el dominio de la empresa (caso #13)",SECURITY
+"El botón de exportar reporte no hace nada al darle clic",BUG
+"La aplicación se cierra sola cada vez que subo un archivo",BUG
+"El enlace para restablecer mi contraseña expiró (caso #45)",ACCESS
+"Cómo puedo personalizar los permisos de cada rol (caso #28)",FEATURE
+"Quisiera saber si tienen API disponible para desarrolladores",FEATURE
+"Detectamos un intento de acceso no autorizado desde una IP extranjera (caso #11)",SECURITY
+"Dónde configuro el idioma de la interfaz a español (caso #26)",FEATURE
+"Se pueden crear plantillas personalizadas para los tickets (caso #30)",FEATURE
+"Las notificaciones llegan con varias horas de retraso (caso #45)",BUG
+"El sistema se congela al filtrar por fechas (caso #37)",BUG
+"No cargan las imágenes de perfil de los usuarios",BUG
+"Mi cuenta quedó bloqueada tras varios intentos fallidos (caso #13)",ACCESS
+"Mi cuenta quedó bloqueada tras varios intentos fallidos (caso #33)",ACCESS
+"Sospechamos de un ataque de ransomware cifrando carpetas compartidas",SECURITY
+"No puedo acceder con la contraseña temporal (caso #49)",ACCESS
+"Cómo puedo exportar mis datos en formato Excel (caso #41)",FEATURE
+"Dónde configuro el idioma de la interfaz a español (caso #46)",FEATURE
+"La versión móvil se ve desacomodada en pantallas pequeñas (caso #30)",BUG
+"Dónde configuro el idioma de la interfaz a español (caso #16)",FEATURE
+"Las llaves de API quedaron expuestas en un repositorio público (caso #20)",SECURITY
+"Detectamos un intento de acceso no autorizado desde una IP extranjera (caso #21)",SECURITY
+"Las notificaciones llegan con varias horas de retraso (caso #15)",BUG
+"Me gustaría poder activar el modo oscuro en la plataforma (caso #22)",FEATURE
+"Me aparece error 500 al intentar guardar los cambios (caso #22)",BUG
+"Dónde configuro el idioma de la interfaz a español",FEATURE
+"El escáner reportó una vulnerabilidad de inyección SQL en el buscador (caso #44)",SECURITY
+"Se detectó actividad de malware en uno de los servidores de archivos (caso #35)",SECURITY
+"Encontramos una falla XSS en el formulario de comentarios (caso #27)",SECURITY
+"Me aparece error 500 al intentar guardar los cambios (caso #32)",BUG
+"La aplicación me devuelve a la pantalla de inicio de sesión (caso #20)",ACCESS
+"Se detectó actividad de malware en uno de los servidores de archivos",SECURITY
+"La gráfica del panel principal muestra datos en cero (caso #16)",BUG
+"La pantalla se queda completamente en blanco al cargar (caso #13)",BUG
+"La gráfica del panel principal muestra datos en cero (caso #26)",BUG
+"Detectamos un intento de acceso no autorizado desde una IP extranjera (caso #41)",SECURITY
+"Las llaves de API quedaron expuestas en un repositorio público (caso #50)",SECURITY
+"Sería útil tener un historial de cambios por usuario (caso #17)",FEATURE
+"Tienen integración directa con Slack o Microsoft Teams",FEATURE
